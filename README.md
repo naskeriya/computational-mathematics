@@ -21,14 +21,9 @@ To set up the project locally, follow these steps:
    cd computational-mathematics
    ```
 
-2. Install the required dependencies:
+2. Run the project:
    ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the project:
-   ```bash
-   python main.py
+   python file.py
    ```
 
 ## Usage
